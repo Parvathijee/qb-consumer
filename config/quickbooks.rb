@@ -1,0 +1,1 @@
+QboApi.logger = Rails.logger
